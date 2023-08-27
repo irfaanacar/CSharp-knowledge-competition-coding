@@ -1,0 +1,10 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SoruUygulamasi\bin\Debug\SoruUygulamasi.exe.config
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SoruUygulamasi\bin\Debug\SoruUygulamasi.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SoruUygulamasi\bin\Debug\SoruUygulamasi.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SoruUygulamasi\obj\Debug\SoruUygulamasi.csproj.AssemblyReference.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SoruUygulamasi\obj\Debug\SoruUygulamasi.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SoruUygulamasi\obj\Debug\SoruUygulamasi.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SoruUygulamasi\obj\Debug\SoruUygulamasi.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SoruUygulamasi\obj\Debug\SoruUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SoruUygulamasi\obj\Debug\SoruUygulamasi.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\SoruUygulamasi\obj\Debug\SoruUygulamasi.pdb
